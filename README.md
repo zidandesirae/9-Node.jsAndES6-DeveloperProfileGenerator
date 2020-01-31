@@ -23,4 +23,4 @@ The PDF will be populated with the following:
 
 GitHub Repository: https://github.com/zidandesirae/HW-09-Node-JS-Developer-Profile-Generator
 
-<iframe src="https://giphy.com/embed/SScU7zYJdJNBXJLT4Y" width="458" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SScU7zYJdJNBXJLT4Y">via GIPHY</a></p>
+![](HW09.gif)
