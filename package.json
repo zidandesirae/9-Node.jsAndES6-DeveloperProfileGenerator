@@ -1,0 +1,25 @@
+{
+  "name": "hw-09-node-js-developer-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zidandesirae/HW-09-Node-JS-Developer-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zidandesirae/HW-09-Node-JS-Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/zidandesirae/HW-09-Node-JS-Developer-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.4",
+    "open": "^7.0.1"
+  }
+}
