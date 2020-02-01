@@ -21,6 +21,6 @@ The PDF will be populated with the following:
 * Number of GitHub stars
 * Number of users following
 
-GitHub Repository: https://github.com/zidandesirae/HW-09-Node-JS-Developer-Profile-Generator
+GitHub Repository: https://github.com/zidandesirae/9-Node.jsAndES6-DeveloperProfileGenerator/
 
 ![](HW09.gif)
